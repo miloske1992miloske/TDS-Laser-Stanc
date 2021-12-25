@@ -272,6 +272,32 @@ footer .aw-logo-img-footer {
 
 }
 
+@media all and (max-width: 500px) {
+
+    .aw-logo-img {
+        width: 200px; 
+    }
+
+    footer .aw-logo-img-footer {
+        width: 130px;
+    }
+
+    #aw-kontakt h1 {
+        margin-top: 50px;
+        margin-bottom: 40px;
+        font-size: 45px;
+    }
+
+    #aw-kontakt h4:last-child {
+        margin-bottom: 30px;
+    }
+
+    footer h4 {
+        font-size: 17px;
+       
+    }
+}
+
 
 
 
